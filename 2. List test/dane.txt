@@ -1,0 +1,50 @@
+50, Smokey Robinson and the Miracles, The Tracks of My Tears, 1965, Pete Moore, Robinson, Marv Tamplin
+49, The Eagles, Hotel California, 1976, Don Felder, Glenn Frey, Don Henley
+48, Simon and Garfunkel, Bridge Over Troubled Water, 1970, Paul Simon
+47, The Jimi Hendrix Experience, All Along the Watchtower, 1968, Bob Dylan
+46, David Bowie, Heroes, 1977, Bowie, Brian Eno
+45, Elvis Presley, Heartbreak Hotel, 1956, Mae Boren Axton, Tommy Durden, Presley
+44, Ray Charles, Georgia on My Mind, 1960, Hoagy Carmichael, Stuart Gorrell
+43, Little Richard, TuttiFrutti, 1955, Dorothy La Bostrie, Richard Penniman, Joe Lubin
+42, The Kinks, Waterloo Sunset, 1968, Ray Davies
+41, The Band, The Weight, 1968, Robbie Robertson
+40, Martha Reeves and the Vandellas, Dancing in the Street, 1964, Marvin Gaye, Ivy Hunter, William "Mickey" Stevenson
+39, Buddy Holly and the Crickets, Thatll Be the Day, 1957, Jerry Allison, Holly, Norman Petty
+38, The Rolling Stones, Gimme Shelter, 1969, Mick Jagger, Keith Richards
+37, Bob Marley, No Woman No Cry, 1975, Vincent Ford, Marley
+36, U2, One, 1991, Bono, the Edge, Adam Clayton, Larry Mullen Jr
+35, The Doors, Light My Fire, 1967, Robby Krieger, John Densmore, Jim Morrison, Ray Manzarek
+34, The Righteous Brothers, Youve Lost That Lovin Feelin”, 1964, Phil Spector, Barry Mann, Cynthia Weil
+33, Ike and Tina Turner, River Deep – Mountain High, 1966, Phil Spector, Jeff Barry, Ellie Greenwich
+32, The Rolling Stones, Sympathy for the Devil, 1968, Mick Jagger, Keith Richards
+31, Led Zeppelin, Stairway to Heaven, 1971, Jimmy Page, Robert Plant
+30, Johnny Cash, I Walk the Line, 1956, Cash
+29, The Beatles, Help!, 1965, John Lennon, Paul McCartney
+28, The Beatles, A Day in the Life, 1967, John Lennon, Paul McCartney
+27, Derek and the Dominos, Layla, 1970, Eric Clapton, Jim Gordon
+26, Otis Redding, (Sittin on) the Dock of the Bay, 1968, Redding, Steve Cropper
+25, The Beach Boys, God Only Knows, 1966, Brian Wilson, Tony Asher
+24, The Impressions, People Get Ready, 1965, Curtis Mayfield
+23, The Beatles, In My Life, 1965, John Lennon, Paul McCartney
+22, The Ronettes, Be My Baby, 1963, Jeff Barry, Ellie Greenwich, Phil Spector
+21, Bruce Springsteen, Born to Run, 1975, Springsteen
+20, The Beatles, Let It Be, 1970, John Lennon, Paul McCartney
+19, Elvis Presley, Hound Dog, 1956, Jerry Leiber, Mike Stoller
+18, Chuck Berry, Maybellene, 1955, Chuck Berry
+17, The Jimi Hendrix Experience, Purple Haze, 1967, Jimi Hendrix
+16, The Beatles, I Want to Hold Your Hand, 1963, John Lennon, Paul McCartney
+15, The Clash, London Calling, 1980, Mick Jones, Joe Strummer
+14, Bob Dylan, Blowin in the Wind, 1963, Bob Dylan
+13, The Beatles, Yesterday, 1965, John Lennon, Paul McCartney
+12, Sam Cooke, A Change Is Gonna Come, 1964, Sam Cooke
+11, The Who, My Generation, 1965, Pete Townshend
+10, Ray Charles, Whatd I Say, 1959, Ray Charles
+9,  Nirvana, Smells Like Teen Spirit, 1991, Kurt Cobain
+8, The Beatles, Hey Jude, 1968, John Lennon, Paul McCartney
+7, Chuck Berry, Johnny B Goode, 1958, Chuck Berry
+6, The Beach Boys, Good Vibrations, 1966, Brian Wilson, Mike Love 
+5, Aretha Franklin, Respect, 1967, Otis Redding
+4, Marvin Gaye, Whats Going On, 1971,Marvin Gaye, Renaldo Benson, Al Cleveland
+3, John Lennon, Imagine, 1971, John Lennon
+2, The Rolling Stones, (I Cant Get No) Satisfaction, 1965, Mick Jagger, Keith Richards
+1, Bob Dylan, Like a Rolling Stone, 1965, Bob Dylan

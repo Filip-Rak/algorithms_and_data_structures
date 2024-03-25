@@ -1,0 +1,11 @@
+W załączniku znajduje się lista 50 najlepszych utworów rockowych według czasopisma "Rolling Stone". Zaimplementuj odopowiednie struktury danych do pzrechowywania danych w postaci listy oraz pobierz dane z pliku tekstowego. W przypadku problemów z pobraniem danych - wygeneruj przykładowe samodzielnie (2 pkt).
+
+Format pliku: Wykonawca, nazwa, rok wyjścia, autorzy.
+
+Następnie rozwiąż zadania:
+
+1. Napisz funkcję która wygeneruje listę wszyskich wykonawców obencych na liście więcej niż raz. (3 pkt)
+
+2. Napisz funkcję która zwróci listę utworów wydancyh w podanym roku (2 pkt)
+
+3. Dla podanej pozycji na liście sprawdź czy wykonacwa jest również autorem utworu (możesz ale nie musisz skorzystać z własnej wiedzy) (3 pkt.)
