@@ -1,0 +1,7 @@
+Każde zadanie należy rozwiązać używając optymlanej obliczeniowo metody
+
+1.     Sortowanie wartości funkcji: Na wejściu program dostaje posortowaną tablice argumentów oraz parametry A, B i C funkcji y=Ax2+Bx+C. Program powinien zwrócić posortowaną tablicę wartości funkcji dla podanych na wejściu argumentów. Zadanie będzie oceniane w zależności od optymalności rozwiązania. 
+
+2. Problem butelek z wodą: przyjmijmy że posiadasz n niebieskich i n czerwonych butelek z wodą. W każdej znajduje się różna ilość wody, przy czym dla każdej niebiskiej butelki istnieje czerwona która ma tyle samo wody. Napisz funkcję która dobierze butelki z taką samą ilością wody w pary. Butelkę przedstaw jako strukturę {id, kolor, ilość wody}. Zadanie będzie oceniane w zależności od optymalności rozwiązania
+
+3. Problem maksymalnego iloczynu: Napisz program który dla tablicy liczb całkowitych znajdzie trójkę liczb iloczyn których będzie maksymalny. Zadanie będzie oceniane w zależności od optymalności rozwiązania
