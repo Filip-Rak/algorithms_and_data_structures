@@ -1,0 +1,10 @@
+Zaimplementuj program realizujący słownik języka elfów narodu Zyreichwel korzystając z srzewa BST
+
+Słowa w tym języku mogą się składać z liter alfabetu angielskiego, cyfr oraz znaków specjalnych !@#$%^&*(). Kolejność alfabetyczna jest definiowana następująco: [0-9, A-P, !@#$%^&*(), Q-Z].
+
+Program powinien realizować mozliwość:
+1. Wyszukiwania słowa w słowniku. 
+2. Wyszukiwanie zaawansowane w słowniku (Jeśli jest szukane "Q4#E" to wyszukiwanie powinno się zatrzymac przy pierwszym słowie które sie zaczyna na "Q4#E")
+3. Dodawania nowych słów. Przy dodawaniu nie może zostać dodane słowo które już znajduje się w słowniku
+4. Edycji istniejącego słowa.
+
