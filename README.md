@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains various algorithms and data structures developed for the 'Algorithms and Data Structures' course taken during the second and third semesters at AGH University of Science and Technology in Krakow.
+This repository contains various algorithms and data structures developed for the 'Algorithms and Data Structures' course taken during the second and third semesters at AGH University of Krakow.
 
 ## Data Structures
 
